@@ -2,11 +2,11 @@
 
 This project aims to predict the number of bike-sharing users on a daily basis using various environmental and seasonal features.
 
-## 🧠 Project Overview
+##  Project Overview
 
 This machine learning project was completed as part of an internship with **Fox Trading** in collaboration with **1Stop.ai**. The objective is to predict the daily count of total rental bikes (casual + registered) using regression techniques.
 
-## 📁 Dataset
+##  Dataset
 
 The dataset used is publicly available and includes features such as:
 
@@ -33,7 +33,7 @@ The dataset used is publicly available and includes features such as:
 - Seaborn  
 - Scikit-learn
 
-## 🧪 Workflow
+##  Workflow
 
 ### 1. Data Preprocessing
 
@@ -69,10 +69,10 @@ Used the following metrics to evaluate model performance:
 
 Compared model performance using the above metrics to identify the best-fit model.
 
-## 📊 Results
+##  Results
 
 - The **XGBoost Regressor** performed best among the tested models in terms of accuracy and lower error metrics.
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates a regression-based approach to forecast bike rental demand, which can help optimize bike distribution and inventory planning for bike-sharing systems.
