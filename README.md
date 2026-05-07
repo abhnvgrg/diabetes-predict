@@ -4,7 +4,7 @@ This project aims to predict the number of bike-sharing users on a daily basis u
 
 ##  Project Overview
 
-This machine learning project was completed as part of an internship with **Fox Trading** in collaboration with **1Stop.ai**. The objective is to predict the daily count of total rental bikes (casual + registered) using regression techniques.
+The objective is to predict the daily count of total rental bikes (casual + registered) using regression techniques.
 
 ##  Dataset
 
